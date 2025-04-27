@@ -16,5 +16,5 @@ Frontend: React.js, Material-UI, CSS
 
 API: RapidAPI - ExerciseDB
 
-Hosting: (optional if deployed) Vercel / Netlify
+Hosting:  Vercel 
 
